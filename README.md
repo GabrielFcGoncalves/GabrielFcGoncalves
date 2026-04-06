@@ -1,7 +1,7 @@
 # Hi Im Gabriel Gonçalves! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[GabrielFcGoncalves]&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Rank Score" />
 </p>
 
 ### About Me
