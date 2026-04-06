@@ -1,14 +1,17 @@
 # Hi Im Gabriel Gonçalves! 👋
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GabrielFcGoncalves]&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Rank Score" />
-</p>
-
 ### About Me
 - I’m currently working on Portfolio, an all-in-one management platform designed for artists to handle high-resolution project deliveries and automated protection for their creative work. It streamlines the business of custom commissions by securing client payments in escrow and managing international tax compliance and professional invoicing. The system serves as a central hub for creators to showcase portfolios, process secure orders, and ensure reliable payouts for every completed project.
 
 
----
+<p align="left">
+  <a href="https://github.com/[YourGitHubUsername]/[RepoName1]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[RepoName1]&theme=radical&border_radius=10" />
+  </a>
+  <a href="https://github.com/[YourGitHubUsername]/[RepoName2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[RepoName2]&theme=radical&border_radius=10" />
+  </a>
+</p>
 
 ### My Tech Stack
 
