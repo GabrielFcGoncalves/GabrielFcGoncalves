@@ -1,4 +1,4 @@
-# Hi Im Gabriel Gonçalves! 👋
+# Hi Im Gabriel Gonçalves! 
 
 ### About Me
 - I’m currently working on Portfolio, an all-in-one management platform designed for artists to handle high-resolution project deliveries and automated protection for their creative work. It streamlines the business of custom commissions by securing client payments in escrow and managing international tax compliance and professional invoicing. The system serves as a central hub for creators to showcase portfolios, process secure orders, and ensure reliable payouts for every completed project.
